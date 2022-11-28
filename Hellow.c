@@ -1,7 +1,7 @@
 #incleude<stdio.h>
 int main()
 {
-  printf("\n\dHellow World\n");
+  printf("\nHellow World\n");
   return 0;
 
 }
